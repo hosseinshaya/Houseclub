@@ -4,10 +4,10 @@ android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
     defaultConfig {
-        applicationId "unofficial.clubhouse.android"
+        applicationId "com.hosseinshaya.clubhouzeplus"
         minSdkVersion 24
-        versionCode 10
-        versionName "1.0.9"
+        versionCode 1
+        versionName "1.0.0"
         resConfig "en"
         vectorDrawables.useSupportLibrary = true
     }

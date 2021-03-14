@@ -19,7 +19,7 @@
                 android:layout_width="72dp"
                 android:layout_height="72dp">
 
-                <me.grishka.houseclub.views.SquircleImageView
+                <com.hosseinshaya.clubhouzeplus.views.SquircleImageView
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -156,7 +156,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <me.grishka.houseclub.views.SquircleImageView
+            <com.hosseinshaya.clubhouzeplus.views.SquircleImageView
                 android:id="@+id/inviter_photo"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
